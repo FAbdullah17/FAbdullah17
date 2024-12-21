@@ -26,7 +26,8 @@ I specialize in building cutting-edge models and developing robust solutions usi
 Feel free to reach out to me for collaborations, mentorship, or just a friendly chat about AI, machine learning, or anything tech-related! 😊
 
 - **Email:** fahadai.co@gmail.com
-- **LinkedIn:** [Fahad Abdullah](www.linkedin.com/in/fahad-abdullah-3bb72a270)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahad%20Abdullah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahad-abdullah-3bb72a270)
   
 ---
 
