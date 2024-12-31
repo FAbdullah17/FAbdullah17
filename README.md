@@ -68,7 +68,7 @@ Feel free to reach out to me for collaborations, mentorship, or just a friendly 
 ## 🌱 Current Goals
 - Build and deploy more machine learning models.
 - Continue learning about natural language processing (NLP) and deep learning architectures.
-- Continue and enhance mt journey in GenAI and LLMs
+- Continue and enhance my journey in GenAI and LLMs
 - Contribute to open-source AI projects and share knowledge with the community.
 
 ---
